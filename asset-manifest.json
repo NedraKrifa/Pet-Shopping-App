@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Pet-Shopping-App/static/css/main.248abe06.chunk.css",
+    "main.js": "/Pet-Shopping-App/static/js/main.bcdc4e0a.chunk.js",
+    "main.js.map": "/Pet-Shopping-App/static/js/main.bcdc4e0a.chunk.js.map",
+    "runtime-main.js": "/Pet-Shopping-App/static/js/runtime-main.33b7330b.js",
+    "runtime-main.js.map": "/Pet-Shopping-App/static/js/runtime-main.33b7330b.js.map",
+    "static/js/2.e52bae99.chunk.js": "/Pet-Shopping-App/static/js/2.e52bae99.chunk.js",
+    "static/js/2.e52bae99.chunk.js.map": "/Pet-Shopping-App/static/js/2.e52bae99.chunk.js.map",
+    "index.html": "/Pet-Shopping-App/index.html",
+    "precache-manifest.0f15d6247df3b61b6cfa424dc8508561.js": "/Pet-Shopping-App/precache-manifest.0f15d6247df3b61b6cfa424dc8508561.js",
+    "service-worker.js": "/Pet-Shopping-App/service-worker.js",
+    "static/css/main.248abe06.chunk.css.map": "/Pet-Shopping-App/static/css/main.248abe06.chunk.css.map",
+    "static/js/2.e52bae99.chunk.js.LICENSE.txt": "/Pet-Shopping-App/static/js/2.e52bae99.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33b7330b.js",
+    "static/js/2.e52bae99.chunk.js",
+    "static/css/main.248abe06.chunk.css",
+    "static/js/main.bcdc4e0a.chunk.js"
+  ]
+}
